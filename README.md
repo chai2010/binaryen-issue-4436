@@ -1,6 +1,8 @@
 # binaryen-issue-4436
 https://github.com/WebAssembly/binaryen/issues/4436
 
+https://github.com/WebAssembly/binaryen/releases/tag/version_104
+
 macOS 12.0.1 (21A559)
 
 ```
